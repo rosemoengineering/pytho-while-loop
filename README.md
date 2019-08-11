@@ -1,1 +1,1 @@
-# pytho-while-loop
+# python-while-loop
